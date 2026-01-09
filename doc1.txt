@@ -1,0 +1,2 @@
+Retrieval-Augmented Generation (RAG) improves LLM answers by fetching relevant external documents.
+Large Language Models (LLMs) can hallucinate if they lack context or real-time data.
